@@ -21,7 +21,7 @@ I enjoy building practical projects, exploring new technologies, and solving pro
 
 **AI/ML:** Machine Learning, Deep Learning, PyTorch, Scikit-learn
 
-**Cloud & DevOps:** AWS, Docker, Jenkins, Git, 
+**Cloud & DevOps:** AWS, Docker, Jenkins, Git, Github
 
 ## 🏆 Achievements
 
