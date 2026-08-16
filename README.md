@@ -13,9 +13,11 @@ I enjoy building practical projects, exploring new technologies, and solving pro
 
 ## 🛠️ Technologies
 
-**Languages:** C, C++, SQL
+**Languages:** C, C++
 
 **Web Development:** React.js, Node.js, HTML, CSS
+
+**Database:** SQL
 
 **AI/ML:** Machine Learning, Deep Learning, PyTorch, Scikit-learn
 
