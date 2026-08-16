@@ -15,7 +15,7 @@ I enjoy building practical projects, exploring new technologies, and solving pro
 
 **Languages:** C, C++
 
-**Web Development:** React.js, Node.js, HTML, CSS
+**Web Development:** HTML, CSS (learning: Node.js , Distributed Systems)
 
 **Database:** SQL
 
